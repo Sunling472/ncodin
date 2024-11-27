@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Run",
+    "command": "odin run ./src/. -out=bin/ncodin",
+    "shell": "system"
+  },
+  {
+    "label": "Build",
+    "command": "odin build ./src/. -out=bin/ncodin",
+    "shell": "system"
+  }
+]
